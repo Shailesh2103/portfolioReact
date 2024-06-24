@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/portfolioReact/static/css/main.ec13d2e9.css",
+    "main.js": "/portfolioReact/static/js/main.6e6bec65.js",
+    "static/js/453.1b6cbde4.chunk.js": "/portfolioReact/static/js/453.1b6cbde4.chunk.js",
+    "static/media/Virat_kohli_wallpaper_Virat_kohli_4k_wallpapers_-removebg-preview.png": "/portfolioReact/static/media/Virat_kohli_wallpaper_Virat_kohli_4k_wallpapers_-removebg-preview.6ff78a9fa9ff8e3dd817.png",
+    "static/media/hero-bg.jpg": "/portfolioReact/static/media/hero-bg.a294b60e21c02117dd85.jpg",
+    "static/media/project.jpg": "/portfolioReact/static/media/project.1447c26c1d20dfbf4484.jpg",
+    "static/media/frontendDevloper.png": "/portfolioReact/static/media/frontendDevloper.20fd013c1f0e06accc41.png",
+    "index.html": "/portfolioReact/index.html",
+    "main.ec13d2e9.css.map": "/portfolioReact/static/css/main.ec13d2e9.css.map",
+    "main.6e6bec65.js.map": "/portfolioReact/static/js/main.6e6bec65.js.map",
+    "453.1b6cbde4.chunk.js.map": "/portfolioReact/static/js/453.1b6cbde4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec13d2e9.css",
+    "static/js/main.6e6bec65.js"
+  ]
+}
